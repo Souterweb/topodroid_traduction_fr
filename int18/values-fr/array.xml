@@ -3,7 +3,7 @@
 <resources>
 
   <string-array name="unitGrid">
-     <item name="meter">Metres</item>
+     <item name="meter">Mètres</item>
      <item name="yard">Yards</item>
   </string-array>
 
@@ -34,8 +34,8 @@
   
 
   <string-array name="stationNames">
-     <item name="alpha">Alphanumerique</item>
-     <item name="number">Numerique</item>
+     <item name="alpha">Alphanumérique</item>
+     <item name="number">Numérique</item>
   </string-array>
  
 
@@ -78,10 +78,10 @@
   </string-array>
 
   <string-array name="extraButtons">
-     <item name="basic">Basic</item>
+     <item name="basic">Basique</item>
      <item name="normal">Normal</item>
      <item name="advanced">Avancé</item>
-     <item name="expert">Experimental</item>
+     <item name="expert">Expérimental</item>
      <!-- item name="complete">Complete</item -->
   </string-array>
  
@@ -123,8 +123,8 @@
 
   <string-array name="surveyStations">
      <item name="no">Désactivé</item>
-     <item name="for">Visée normale, visée latérales en premier</item>
-     <item name="back">Visée inverse, visée latérales en premier</item>
+     <item name="for">Visée normale, visées latérales en premier</item>
+     <item name="back">Visée inverse, visées latérales en premier</item>
      <item name="for2">Visée normale, cheminement en premier</item>
      <item name="back2">Visée inverse, cheminement en premier</item>
      <item name="anomaly">Visée Arriere, Backsight</item>
