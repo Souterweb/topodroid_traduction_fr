@@ -796,7 +796,7 @@
     <string name="title_mode">Mode d\'affichage</string>
     <string name="title_move">Déplacement</string>
     <string name="title_note">Notes du relevé</string>
-    <string name="title_photo">Photo/Mesures</string>
+    <string name="title_photo">Visées/Mesures</string>
     <string name="title_photo_comment">Commentaire photo</string>
     <string name="title_plot_save">Enregistrer le croquis sous</string>
     <!-- TODO string name="title_plot_merge">Merge-in sketch</string -->
@@ -842,8 +842,8 @@
   <!-- UNUSED string name="pref_bootloader_summary">Activer le chargeur de démarrage</string -->
   <string name="pref_mkeyboard_title">Clavier</string>
   <string name="pref_mkeyboard_summary">Activer/Désactiver clavier optionnel</string>
-  <!-- TODO string name="pref_local_help_title">Translated manual</string -->
-  <!-- TODO string name="pref_local_help_summary">Enable translated manual</string -->
+  <string name="pref_local_help_title">Manuel Traduit</string -->
+  <string name="pref_local_help_summary">Activer Traduction Manuel</string -->
   <string name="pref_cosurvey_title">Co-relevé</string>
   <string name="pref_cosurvey_summary">Activer/désactiver co-relevé</string>
   <string name="pref_export_shots_title">Format export des données</string>
@@ -870,11 +870,11 @@
   <string name="pref_ortho_lrud_summary">Angle minimum visée de cheminement pour une cheminement LRUD</string>
   <string name="pref_ortho_lrud_message">Angle minimum LRUD</string>
   <!-- TODO string name="pref_lrud_vertical_title">UD min splay clino</string -->
-  <!-- TODO string name="pref_lrud_vertical_summary">LRUD up/down minimum splay clino</string -->
-  <!-- TODO string name="pref_lrud_vertical_message">LRUD up/down minimum splay clino</string -->
-  <!-- TODO string name="pref_lrud_horizontal_title">LR max splay clino</string -->
-  <!-- TODO string name="pref_lrud_horizontal_summary">LRUD left/right maximum splay clino</string -->
-  <!-- TODO string name="pref_lrud_horizontal_message">LRUD left/right maximum splay clino</string -->
+  <string name="pref_lrud_vertical_summary">GDHB haut/bas minimum splay clino</string -->
+  <string name="pref_lrud_vertical_message">GDHB haut/bas minimum splay clino</string -->
+  <string name="pref_lrud_horizontal_title">gauche/droite maximum splay clino</string -->
+  <string name="pref_lrud_horizontal_summary">GDHB gauche/droite maximum splay clino</string -->
+  <string name="pref_lrud_horizontal_message">GDHB gauche/droite maximum splay clino</string -->
   <string name="pref_survex_eol_title">Caract. de fin de ligne Survex</string>
   <string name="pref_survex_eol_summary">Caractère de fin de ligne Survex</string>
   <string name="pref_survex_splay_title">Stations de cheminement Survex</string>
