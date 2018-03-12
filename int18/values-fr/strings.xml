@@ -35,7 +35,7 @@
 
     <string name="make_walls">Parois</string>
     <string name="missing_station">Station manquante</string>
-    <!-- TODO string name="station_not_found">Station not found</string -->
+    <string name="station_not_found">Station non trouvée</string -->
     <!-- UNUSED string name="missing_area">ZONE</string -->
     <!-- UNUSED string name="missing_hint">Merci d\'installer les symboles avec TdSymbol</string -->
     <!-- UNUSED string name="missing_line">LIGNE</string -->
@@ -121,7 +121,7 @@
 <string name="extend_vert">Vert.</string>
 <!-- UNUSED string name="external_prompt">Saisir mesure</string -->
 <string name="splay_at_to">GDHB à la station Vers</string>
-    <!-- TODO string name="lrud">LRUD</string -->
+    <string name="lrud">GDHB</string -->
 
 <string name="few_data">Pas assez de données</string>
     <string name="few_iter">Échec de l\'itération</string>
@@ -184,11 +184,11 @@
 <string name="error_group_non_integer">Groupe doit être un chiffre rond</string>
 <string name="error_alt_required">Altitude nécessaire</string>
 <string name="error_invalid_number">Nombre invalide</string>
-    <!-- TODO string name="error_invalid_name">Invalid name</string -->
+    <string name="error_invalid_name">Nom Invalide</string -->
 <string name="error_lat_required">Latitude nécessaire</string>
 <string name="error_long_required">Longitude nécessaire</string>
 <string name="error_name_required">Nom nécessaire</string>
-    <!-- TODO string name="error_dir_exists">Directory already exists</string -->
+    <string name="error_dir_exists">Répertoire déjà existant</string -->
     <!-- UNUSED string name="error_nick_required">X-Section name required</string -->
 <string name="error_start_required">Station de référence nécessaire</string>
 <!-- UNUSED string name="error_station_already_fixed">cette Station a deja des coordonées</string -->
@@ -215,9 +215,9 @@
 <!-- UNUSED string name="barrier_del">Afficher les visées suivantes</string -->
 <!-- UNUSED string name="hidden_add">Cacher les visées precedentes</string -->
 <!-- UNUSED string name="hidden_del">Afficher les visées précédentes</string -->
-    <!-- TODO string name="hidden_show">Show shots beyond station</string -->
+    <string name="hidden_show">Montrer les visées suivantes</string -->
 <string name="splays_toggle">Basculer les visées d\'habillage - Splays</string>
-    <!-- TODO string name="splays">splays</string -->
+    <string name="splays">Visées d\'habillage</string -->
 <string name="fixed">fixé</string>
 <string name="painted">dessiné</string>
 
@@ -226,8 +226,8 @@
     <!-- TODO string name="empty_cwd">Empty project name</string -->
     <!-- TODO string name="bad_cbd">Base directory inexistent or not writable</string -->
 <string name="bad_cwd">Le nom du projet ne peut être son chemin</string>
-<string name="bad_line">mauvais type de ligne</string>
-<string name="bad_point">mauvais type de point</string>
+<string name="bad_line">Mauvais type de ligne</string>
+<string name="bad_point">Mauvais type de point</string>
 
 <string name="no_bt">Pas de Bluetooth</string>
 <string name="no_calib">Pas d\'étalonnage</string>
@@ -310,18 +310,18 @@
     <string name="popup_erase_line">Suppr. lignes</string>
     <string name="popup_erase_area">Suppr. zones</string>
 
-    <!-- TODO string name="popup_select_all">Select all</string -->
-    <!-- TODO string name="popup_select_point">Select points</string -->
-    <!-- TODO string name="popup_select_line">Select lines</string -->
-    <!-- TODO string name="popup_select_area">Select areas</string -->
-    <!-- TODO string name="popup_select_shot">Select shots</string -->
-    <!-- TODO string name="popup_select_station">Select stations</string -->
+    <string name="popup_select_all">Selectionner tout</string -->
+    <string name="popup_select_point">Selectionner points</string -->
+    <string name="popup_select_line">Selectionner lignes</string -->
+    <string name="popup_select_area">Selectionner surfaces</string -->
+    <string name="popup_select_shot">Selectionner visées</string -->
+    <string name="popup_select_station">Selectionner stations</string -->
 
-    <!-- TODO string name="popup_cont_none">None</string -->
-    <!-- TODO string name="popup_cont_start">Start point</string -->
-    <!-- TODO string name="popup_cont_end">End point</string -->
-    <!-- TODO string name="popup_cont_both">Both points</string -->
-    <!-- TODO string name="popup_cont_continue">Continue</string -->
+    <string name="popup_cont_none">Rien</string -->
+    <string name="popup_cont_start">Point de départ</string -->
+    <string name="popup_cont_end">Point d'arrivée</string -->
+    <string name="popup_cont_both">Les deux points</string -->
+    <string name="popup_cont_continue">Continuer</string -->
 
     <string name="connected_none">Non connecté</string>
     <string name="connected_already">Déjà Connecté</string>
@@ -484,7 +484,7 @@
     <string name="extended_profile">Profil étendu</string>
     <!-- UNUSED string name="v_section">SECTION V</string -->
     <string name="h_section">SECTION H</string>
-    <!-- TODO string name="landscape">landscape</string -->
+    <string name="landscape">Paysage</string -->
 
     <string name="distox_err_ok">OK</string>
     <string name="distox_err_headtail">Échec de lecture de la mémoire du DistoX</string>
@@ -500,9 +500,9 @@
     <string name="button_add"       >Ajouter       </string>
     <string name="button_back"      >Retour     </string>
     <string name="button_cancel"    >Annuler    </string>
-    <!-- TODO string name="button_change"    >Change    </string -->
+    <string name="button_change"    >Changer    </string -->
     <string name="button_close"     >Fermer     </string>
-    <!-- TODO string name="button_create"    >Create    </string -->
+    <string name="button_create"    >Créer    </string -->
     <string name="button_convert"   >Convertir   </string>
     <string name="button_current"   >Courant   </string>
     <string name="button_delete"    >Supprimer    </string>
@@ -533,9 +533,9 @@
     <string name="button_clear"     >EFFACER     </string>
     <string name="button_save"      >ENREGISTRER      </string>
     <!-- UNUSED string name="button_select"    >Sélectionner    </string -->
-    <!-- TODO string name="button_search"    >Search    </string -->
-    <!-- TODO string name="button_merge"     >Merge     </string -->
-    <!-- TODO string name="button_split"     >Split     </string -->
+    <string name="button_search"    >Chercher    </string -->
+    <string name="button_merge"     >Fusionner     </string -->
+    <string name="button_split"     >Diviser     </string -->
     <string name="button_store"     >STOCKER     </string>
     <!-- UNUSED string name="button_start"     >DEMARRER</string -->
     <!-- UNUSED string name="button_stop"      >ARRETER</string -->
@@ -547,8 +547,8 @@
 
 
     <string name="button_write"     >Uploader</string>
-    <string name="button_xsection"  >X-Section</string>
-    <!-- TODO string name="xsection">X-Section</string -->
+    <string name="button_xsection"  >Section transverse</string>
+    <string name="xsection">Section transverse</string -->
 
     <string name="mode_leg">Cheminements</string>
     <string name="mode_splay">Visées latérales</string>
@@ -576,7 +576,7 @@
     <string name="symbol_archeo">Archéo</string>
     <string name="symbol_bio">Biologie</string>
     <string name="symbol_geo">Géologie</string>
-    <!-- TODO string name="symbol_karst">Karst</string -->
+    <string name="symbol_karst">Karst</string -->
     <string name="symbol_mine">Mine</string>
     <string name="symbol_paleo">Paléo</string>
     <string name="symbol_speleo">Spéléo</string>
@@ -613,7 +613,7 @@
     <!-- string name="btn_erase">erase</string -->
     <!-- string name="btn_cut">cut</string -->
     <!-- string name="btn_vertical">Vertical</string -->
-    <!-- TODO string name="btn_horizontal">Horizontal</string -->
+    <string name="btn_horizontal">Horizontal</string -->
 
     <!-- select button labels -->
     <!-- UNUSED string name="btn_section">Section</string -->
@@ -630,8 +630,8 @@
     <string name="few_line_points">La ligne a trop peu de points</string>
     <string name="line_delete">Supprimer ligne</string>
     <string name="flip_shots">Inverser les points</string>
-    <!-- TODO string name="split_nothing">Nothing to split</string -->
-    <!-- TODO string name="copy_items">Copy items</string -->
+    <string name="split_nothing">Rien à diviser</string -->
+    <string name="copy_items">Copie des items</string -->
 
     <!-- OK SKETCH3D non utilisé string name="menu_head">HEAD</string -->
     <!-- string name="menu_save_th2">SAVE TH2</string -->
