@@ -707,7 +707,7 @@
     <string name="help_toggle_plot">Bascule entre plan et section étendue</string>
     <!-- UNUSED string name="help_trash">Supprime le croquis</string -->
     <string name="help_undo">Annule la dernière action</string>
-    <string name="help_redo">Rétabli la dernière action</string>
+    <string name="help_redo">Rétablit la dernière action</string>
     <string name="help_symbol_plot">Sélectionne le symbole à dessiner</string>
     <string name="help_delete_item">Supprimer objet topo</string>
     <string name="help_range">Déplacer portion de ligne</string>
