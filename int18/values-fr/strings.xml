@@ -637,28 +637,28 @@
     <!-- string name="menu_save_th2">SAVE TH2</string -->
 <!-- END_SKETCH_3D -->
 
-    <!-- TODO string name="man_preface">Preface</string -->
-    <!-- TODO string name="man_intro">1. Introduction</string -->
-    <!-- TODO string name="man_main">2. Main window</string -->
-    <!-- TODO string name="man_device">3. Device window</string -->
-    <!-- TODO string name="man_calib">4. Calibration window</string -->
-    <!-- TODO string name="man_gm">5. Calibration data</string -->
-    <!-- TODO string name="man_survey">6. Survey data</string -->
-    <!-- TODO string name="man_shot">7. Shot list</string -->
-    <!-- TODO string name="man_info">8. Survey info</string -->
-    <!-- TODO string name="man_sketch">9. Sketch window</string -->
-    <!-- TODO string name="man_draw">10. Sketch drawing</string -->
-    <!-- TODO string name="man_xsection">11. Cross-sections</string -->
-    <!-- TODO string name="man_overview">12. Overview window</string -->
-    <!-- TODO string name="man_export">13. Import/export</string -->
-    <!-- TODO string name="man_threed">14. 3D viewer</string -->
-    <!-- TODO string name="man_index">15. Index</string -->
-    <!-- TODO string name="man_website">* Website</string -->
+    <string name="man_preface">Préface</string -->
+    <string name="man_intro">1. Introduction</string -->
+    <string name="man_main">2. Fenêtre principale</string -->
+    <string name="man_device">3. Fenêtre de périphérique</string -->
+    <sring name="man_calib">4. Fenêtre d'étalonnage</string -->
+    <string name="man_gm">5. Données d'étalonnage</string -->
+    <string name="man_survey">6. Données du relevé topographique</string -->
+    <string name="man_shot">7. Tableau des visées</string -->
+    <string name="man_info">8. Infos du relevé topographique</string -->
+    <string name="man_sketch">9. Fenêtre de croquis</string -->
+    <string name="man_draw">10. Dessin d'esquisse</string -->
+    <string name="man_xsection">11. Sections transverses</string -->
+    <string name="man_overview">12. Fenêtre d'aperçu</string -->
+    <string name="man_export">13. Import/export</string -->
+    <name="man_threed">14. 3D viewer</string -->
+    <string name="man_index">15. Index</string -->
+    <string name="man_website">* Site Web</string -->
 
     <string name="help_help">Affiche l\'aide</string>
     <!-- UNUSED string name="help_manual">Manuel Utilisateur</string -->
     <string name="help_measure">Mesurer les distances</string>
-    <!-- TODO string name="help_measure_type">Measuring mode: fixed point or polyline</string -->
+    <string name="help_measure_type">Mode de mesure: point fixe ou polyligne</string -->
 
     <string name="help_calib_check">Visées de contrôle étalonnage</string>
     <string name="help_close">Fermer fenêtre</string>
@@ -700,7 +700,7 @@
     <string name="help_rename">Change le nom de la topographie</string>
     <string name="help_plot_rename">Renommer/suppr croquis</string>
     <string name="help_plot_switch">Changer de croquis</string>
-    <!-- TODO string name="help_search">Station search</string -->
+    <string name="help_search">Rechercher une station search</string -->
     <string name="help_stats">Statistiques du relevé</string>
     <string name="help_save_plot">Exporte le croquis</string>
     <!-- UNUSED string name="help_tdr2th2">Converti dessin vers format th2</string -->
@@ -713,7 +713,7 @@
     <string name="help_range">Déplacer portion de ligne</string>
     <!-- UNUSED string name="help_clear">Clear selection</string -->
     <string name="help_eraser">Efface un/des éléments du croquis</string>
-    <!-- TODO string name="help_select_mode">Selection tool</string -->
+    <string name="help_select_mode">Selection d'outil</string -->
     <string name="help_erase_mode">Type de gomme</string>
     <string name="help_erase_size">Taille de gomme [S/M/L]</string>
     <string name="help_previous">Sélectionne l\'élément précédent dans la sélection</string>
