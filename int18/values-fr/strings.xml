@@ -371,7 +371,7 @@
     <!-- UNUSED string name="convert_tdr2th2">Écraser le fichier th2 ?</string -->
     <string name="section_area">Zone section : %1$.1f</string>
     <!-- TODO string name="section_name">section comment</string -->
-    <!-- TODO string name="scrap_outline">Sketch outline</string -->
+    <string name="scrap_outline">Contour croquis</string -->
 
     <!-- UNUSED string name="sensor">capteur</string -->
     <string name="sensor_gravity">gravité</string>
