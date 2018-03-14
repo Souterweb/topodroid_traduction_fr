@@ -42,7 +42,7 @@
   
 
   <string-array name="stationNames">
-     <item name="alpha">Alphanumerique</item>
+     <item name="alpha">Alphanumérique</item>
      <item name="number">Numérique</item>
   </string-array>
  
@@ -145,7 +145,7 @@
      <item name="for2">Visée normale, cheminement en premier</item>
      <item name="back2">Visée inverse, cheminement en premier</item>
      <item name="anomaly">Visée Arrière, Backsight</item>
-     <item name="tripod">Tripod</item>
+     <item name="tripod">Trépied</item>
      <item name="toporobot">TopoRobot</item>
   </string-array>
  
@@ -154,7 +154,7 @@
      <item name="recent">Plus récentes</item>
      <item name="list">Liste</item>
      <item name="grid">Grille</item>
-     <item name="grid3">Triple grid</item>
+     <item name="grid3">Triple grille</item>
    </string-array>
 
 
@@ -181,7 +181,7 @@
   <string-array name="lineStyle">
      <item name="none">Fine</item>
      <item name="two">Normale</item>
-     <item name="three">Grossière</item>
+     <item name="three">Épaisse</item>
      <item name="bezier">Bézier</item>
   </string-array>
 
@@ -210,13 +210,13 @@
   <string-array name="calibAlgo">
      <item name="auto">Automatique</item>
      <item name="linear">Linéaire</item>
-     <item name="nonlinear">Non-linéaire</item>
+     <item name="nonlinear">Non linéaire</item>
   </string-array>
 
   <string-array name="rawCData">
      <item name="none">Aucune</item>
-     <item name="dec">Decimale</item>
-     <item name="hex">Hexa</item>
+     <item name="dec">Décimale</item>
+     <item name="hex">Hexadécimale</item>
   </string-array>
 
 </resources>
