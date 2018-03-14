@@ -296,9 +296,9 @@
     <string name="menu_validate">VALIDATION</string>
     <string name="menu_zoom_fit">ZOOM</string>
 
-    <string name="popup_join_pt">Attacher au point le plus proche</string>
-    <string name="popup_snap_ln">Attacher à la ligne la plus proche</string>
-    <string name="popup_snap_to_splays">Attacher aux cheminements proche</string>
+    <string name="popup_join_pt">Relier point le plus proche</string>
+    <string name="popup_snap_ln">Relier ligne la plus proche</string>
+    <string name="popup_snap_to_splays">Relier cheminement proche</string>
     <string name="popup_split_pt">Dupliquer le point</string>
     <string name="popup_split_ln">Couper la ligne</string>
     <string name="popup_sharp_pt">Redresser le segment</string>
