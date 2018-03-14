@@ -811,7 +811,7 @@
     <string name="title_shift">Décaler</string>
     <string name="title_shot_delete">Supprimer la visée ?</string>
     <string name="title_sensor_edit">Capteur</string>
-    <!-- TODO string name="title_split">Sketch split</string -->
+    <string name="title_split">Partage d'esquisse</string -->
 
     <string name="title_stats">Statistiques</string>
     <string name="title_step">Étape</string>
@@ -851,8 +851,8 @@
   <string name="pref_export_shots_summary">Format export des données par défaut</string>
   <string name="pref_export_plot_title">Format export dessins</string>
   <string name="pref_export_plot_summary">Format par défaut d\'exportation des dessins</string>
-  <string name="pref_therion_maps_title">Cartes Therion en premier</string>
-  <string name="pref_therion_maps_summary">Export des cartes Therion avant les données topographiques</string>
+  <string name="pref_therion_maps_title">Palette Therion en premier</string>
+  <string name="pref_therion_maps_summary">Export des palettes Therion avant les données topographiques</string>
   <string name="pref_extra_buttons_title">Niveau d\'utilisation</string>
   <string name="pref_extra_buttons_summary">Active des options supplémentaires</string>
   <string name="pref_size_buttons_title">Taille des boutons</string>
@@ -863,8 +863,8 @@
   <string name="pref_leg_shots_summary">Nombre minimum de visées successives pour identifier un cheminement</string>
   <string name="pref_station_prefix_title">Préfixe station EcSurvey</string>
   <string name="pref_station_prefix_summary">Export préfixe station cSurvey</string>
-  <!-- TODO string name="pref_compass_splays_title">Compass splays</string -->
-  <!-- TODO string name="pref_compass_splays_summary">Export splays in Compass files</string -->
+  <string name="pref_compass_splays_title">Visées latérales Compass</string -->
+  <string name="pref_compass_splays_summary">Export visées lat. fichier Compass</string -->
   <string name="pref_trobot_names_title">Noms stations TopoRobot</string>
   <string name="pref_trobot_names_summary">Les noms de station sont de style TopoRobot</string>
   <string name="pref_ortho_lrud_title">Angle visée chem. LRUD</string>
@@ -930,8 +930,8 @@
   <string name="pref_auto_reconnect_summary">Reconnecter quand la connexion est perdue</string>
   <string name="pref_auto_pair_title">Auto association</string>
   <string name="pref_auto_pair_summary">Auto association après détection</string>
-  <!-- TODO string name="pref_head_tail_title">Number of new data</string -->
-  <!-- TODO string name="pref_head_tail_summary">Get the number of data before downloading them</string -->
+  <string name="pref_head_tail_title">Nombre de données nouvelles</string -->
+  <string name="pref_head_tail_summary">Nombre de données nouvelles avant le téléchargement</string -->
   <string name="pref_socket_delay_title">Délai de connexion</string>
   <string name="pref_socket_delay_summary">Délai de connexion pour assoc. [0.1 sec]</string>
   <string name="pref_socket_delay_dialogtitle">Délai de connection pour permettre association</string>
