@@ -638,23 +638,23 @@
     <!-- string name="menu_save_th2">SAVE TH2</string -->
 <!-- END_SKETCH_3D -->
 
-    <!-- TODO string name="man_preface">Preface</string -->
-    <!-- TODO string name="man_intro">1. Introduction</string -->
-    <!-- TODO string name="man_main">2. Main window</string -->
-    <!-- TODO string name="man_device">3. Device window</string -->
-    <!-- TODO string name="man_calib">4. Calibration window</string -->
-    <!-- TODO string name="man_gm">5. Calibration data</string -->
-    <!-- TODO string name="man_survey">6. Survey data</string -->
-    <!-- TODO string name="man_shot">7. Shot list</string -->
-    <!-- TODO string name="man_info">8. Survey info</string -->
-    <!-- TODO string name="man_sketch">9. Sketch window</string -->
-    <!-- TODO string name="man_draw">10. Sketch drawing</string -->
-    <!-- TODO string name="man_xsection">11. Cross-sections</string -->
-    <!-- TODO string name="man_overview">12. Overview window</string -->
-    <!-- TODO string name="man_export">13. Import/export</string -->
-    <!-- TODO string name="man_threed">14. 3D viewer</string -->
-    <!-- TODO string name="man_index">15. Index</string -->
-    <!-- TODO string name="man_website">* Website</string -->
+    <string name="man_preface">Préface</string -->
+    <string name="man_intro">1. Introduction</string -->
+    <string name="man_main">2. Fenêtre principale</string -->
+    <string name="man_device">3. Fenêtre du périphérique (DistoX)</string -->
+    <string name="man_calib">4. Fenêtre d'étalonnage</string -->
+    <string name="man_gm">5. Liste des données d'étalonnage</string -->
+    <string name="man_survey">6. Données du relevé topo</string -->
+    <string name="man_shot">7. Tableau des visées</string -->
+    <string name="man_info">8. Fenêtre d'informations du relevé topo</string -->
+    <string name="man_sketch">9. Fenêtre de dessin (esquisse)</string -->
+    <string name="man_draw">10. Dessiner une esquisse</string -->
+    <string name="man_xsection">11. Sections transverses</string -->
+    <string name="man_overview">12. Fenêtre d'aperçu</string -->
+    <string name="man_export">13. Import/export</string -->
+    <string name="man_threed">14. Visualiseur 3D</string -->
+    <string name="man_index">15. Index</string -->
+    <string name="man_website">* Site Web TopoDroid</string -->
 
     <string name="help_help">Affiche l\'aide</string>
     <!-- UNUSED string name="help_manual">Manuel Utilisateur</string -->
@@ -701,7 +701,7 @@
     <string name="help_rename">Change le nom de la topographie</string>
     <string name="help_plot_rename">Renommer/suppr croquis</string>
     <string name="help_plot_switch">Changer de croquis</string>
-    <!-- TODO string name="help_search">Station search</string -->
+    <string name="help_search">Rechercher une station</string -->
     <string name="help_stats">Statistiques du relevé</string>
     <string name="help_save_plot">Exporte le croquis</string>
     <!-- UNUSED string name="help_tdr2th2">Converti dessin vers format th2</string -->
@@ -777,7 +777,7 @@
     <string name="title_contour">Contour</string>
     <!-- UNUSED string name="title_coord">Entrer les Coordonnées du point</string -->
     <string name="title_current_station">Stations sauvegardées</string>
-    <!-- TODO string name="title_station_search">Enter station</string -->
+    <string name="title_station_search">Entrer une station</string -->
     <string name="title_device">Périphériques DistoX</string>
     <string name="title_device_select">Sélectionner le DistoX</string>
     <string name="title_discover">Recherche de nouveaux DistoX… Patientez</string>
@@ -812,7 +812,7 @@
     <string name="title_shift">Décaler</string>
     <string name="title_shot_delete">Supprimer la visée ?</string>
     <string name="title_sensor_edit">Capteur</string>
-    <!-- TODO string name="title_split">Sketch split</string -->
+    <string name="title_split">Diviser l'esquisse</string -->
 
     <string name="title_stats">Statistiques</string>
     <string name="title_step">Étape</string>
