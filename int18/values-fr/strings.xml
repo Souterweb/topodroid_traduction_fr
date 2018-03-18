@@ -799,9 +799,9 @@
     <string name="title_move">Déplacement</string>
     <string name="title_note">Notes du relevé</string>
     <string name="title_photo">Photo/Mesures</string>
-    <string name="title_photo_comment">Commentaire photo</string>
+    <string name="title_photo_comment">Propriétés photo</string>
     <string name="title_plot_save">Enregistrer le croquis sous</string>
-    <!-- TODO string name="title_plot_merge">Merge-in sketch</string -->
+    <string name="title_plot_merge">Fusion de croquis</string -->
     <string name="title_plot_reload">Recharger le croquis</string>
     <string name="title_profile_flip">Basculer le profil du croquis?</string>
     <string name="title_projection">Azimut profil projecté %1$d</string>
