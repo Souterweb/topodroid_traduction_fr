@@ -987,8 +987,8 @@
   <string name="pref_bezier_step_summary">Distance entre les points lors de l\'export ligne [m]</string>
   <string name="pref_leg_shots_title">Nombre mini. visées</string>
   <string name="pref_leg_shots_summary">Nombre minimum de visées successives pour identifier un cheminement</string>
-  <!-- TODO string name="pref_recent_timeout_title">Recent data timeout</string -->
-  <!-- TODO string name="pref_recent_timeout_summary">Timeout after which a data is no longer recent</string -->
+  <string name="pref_recent_timeout_title">Durée donnée récente</string -->
+  <string name="pref_recent_timeout_summary">Durée pendant laquelle une donnée est considérée comme récente</string>
   <string name="pref_station_prefix_title">Préfixe station EcSurvey</string>
   <string name="pref_station_prefix_summary">Export préfixe station cSurvey</string>
   <string name="pref_compass_splays_title">Visées latérales Compass</string>
@@ -1072,7 +1072,7 @@
   <string name="pref_tool_point_title">OUTILS POINTS</string>
   <string name="pref_location_title">OPTIONS GÉOLOCALISATION</string>
   <string name="pref_accuracy_title">PRÉCISION</string>
-  <string name="pref_shot_data_title">OPTIONS DONNÉES VISÉE</string>
+  <string name="pref_shot_data_title">OPTIONS DONNÉES VISÉES</string>
   <string name="pref_shot_units_title">UNITÉS</string>
   <string name="pref_cwd_title">Répertoire TopoDroid</string>
   <!-- UNUSED string name="pref_cwd_summary">Répertoire TopoDroid</string -->
