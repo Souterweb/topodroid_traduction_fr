@@ -1083,11 +1083,11 @@
   <string name="pref_closeness_title">Radius de sélection</string>
   <string name="pref_closeness_message">Portée de la zone de sélection</string>
   <string name="pref_eraseness_title">Taille de la gomme</string>
-  <string name="pref_eraseness_message">Radius supression d\éléments croquis</string>
+  <string name="pref_eraseness_message">Rayon supression d\éléments croquis</string>
   <string name="pref_min_shift_title">Décalage sensibilité</string>
   <string name="pref_min_shift_message">Décalage sensibilité</string>
-  <string name="pref_pointing_title">Radius pointage</string>
-  <string name="pref_pointing_message">Radius de sélection</string>
+  <string name="pref_pointing_title">Rayon de pointage</string>
+  <string name="pref_pointing_message">Rayon de sélection</string>
   <string name="pref_dash_splay_title">Cohérence visées latérales</string>
   <string name="pref_dash_splay_message">Cohérence des visées lat. d\'habillage entre le plan et la coupe</string>
   <string name="pref_vert_splay_title">Seuil incl. visées lat. pointillés</string>
