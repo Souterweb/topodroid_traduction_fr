@@ -17,8 +17,8 @@
   </string-array>
 
   <string-array name="loopClosure">
-     <item name="none">Aucune</item>
-     <item name="normal">Normale</item>
+     <item name="none">Aucun</item>
+     <item name="normal">Normal</item>
      <item name="triangles">Triangles</item>
   </string-array>
 
@@ -100,7 +100,7 @@
      <item name="normal">Normal</item>
      <item name="advanced">Avancé</item>
      <item name="expert">Expérimental</item>
-     <item name="tester">Tester</item>
+     <item name="tester">Testeur</item>
      <!-- item name="complete">Complete</item -->
   </string-array>
  
@@ -123,7 +123,7 @@
   <string-array name="connMode">
      <item name="batch">À la demande</item>
      <item name="continuous">Continue</item>
-     <item name="multi">Multi</item>
+     <item name="multi">Multiple</item>
   </string-array>
  
 
@@ -195,7 +195,7 @@
      <item name="recent">Plus récentes</item>
      <item name="list">Liste</item>
      <item name="grid">Grille</item>
-     <item name="grid3">Triple grid</item>
+     <item name="grid3">Triple grille</item>
    </string-array>
 
 
