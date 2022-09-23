@@ -5,6 +5,7 @@ name-pt passarela_de_madeira
 name-ru деревянный_настил
 name-ro trotuar-lemn
 name-hu fa_járda
+name-fr passerelle_en_bois
 th_name walkway:wood
 group trail
 color 0x993300 0x66
