@@ -5,6 +5,7 @@ name-pt passarela_de_terra
 name-ru земляная_дорожка
 name-ro trotuar-sol
 name-hu földes-járda
+name-fr allée_en_terre
 th_name walkway:soil
 group trail
 color 0xff5500 0x66
