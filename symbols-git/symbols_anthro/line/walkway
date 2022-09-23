@@ -5,6 +5,7 @@ name-pt passarela
 name-ru дорожка
 name-ro trotuar
 name-hu járda
+name-fr passerelle
 th_name walkway
 group trail
 color 0xffffff 0x66
