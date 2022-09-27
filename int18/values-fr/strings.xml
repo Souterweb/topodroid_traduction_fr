@@ -1796,15 +1796,15 @@ Consultez les pages du site Web pour plus de détails.\n
     <string name="info_grid">Grille quadrillage (m)</string>
     <string name="info_view">Point de vue</string>
     <string name="info_surveys">Topographie</string>
-    <!-- TODO string name="info_shot">Shots</string -->
-    <!-- TODO string name="info_station">Stations</string -->
+    <string name="info_shot">Visées</string>
+    <string name="info_station">Stations</string>
     <string name="info_length">Longueur</string>
     <string name="info_depth">Profondeur</string>
     <string name="info_volume">Volume</string>
 
-    <!-- TODO string name="info_east">East</string -->
-    <!-- TODO string name="info_north">North</string -->
-    <!-- TODO string name="info_z">Altitude</string -->
+    <string name="info_east">Est</string>
+    <string name="info_north">Nord</string>
+    <string name="info_z">Altitude</string>
     <!-- TODO string name="info_grid_value">%1$.0f m</string -->
     <!-- TODO string name="info_view_value">A. %1$.0f C. %2$.0f</string -->
     <!-- TODO string name="info_survey_value">%1$d</string -->
@@ -1822,8 +1822,8 @@ Consultez les pages du site Web pour plus de détails.\n
     <!-- UNUSED string name="cno_files">Pas de fichier archive</string -->
     <string name="clear">Effacer</string>
 
-    <!-- TODO string name="plan_proj">Plan</string -->
-    <!-- TODO string name="profile_proj">Profile</string -->
+    <string name="plan_proj">Plan</string>
+    <TODO string name="profile_proj">Coupe</string>
     <!-- TODO string name="dist_no_path">%1$s %2$s: D %3$.1f (%4$.1f %5$.1f %6$.1f) %7$.1f %8$.1f</string -->
     <!-- TODO string name="dist_path">%1$s %2$s: D %3$.1f (%4$.1f %5$.1f %6$.1f) %7$.1f %8$.1f Cave %9$.1f</string -->
     <!-- TODO string name="measure">measure</string -->
