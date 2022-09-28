@@ -1903,7 +1903,7 @@ Consultez les pages du site Web pour plus de détails.\n
     <!-- UNUSED string name="no_surface">No surface DEM</string -->
 
     <string name="error_file_not_found">Erreur : archive  non trouvée</string>
-    <!-- TODO string name="error_file_not_readable">Erreur : fichier illisible</string -->
+    <string name="error_file_not_readable">Erreur : fichier illisible</string>
     <string name="error_io_exception">Erreur : IO exception</string>
     <string name="error_parser_error">Erreur : erreur de l\'analyseur %1$s</string>
     <string name="error_export_failed">Erreur : exportation défaillante %1$s</string>
