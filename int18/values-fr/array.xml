@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-  IMPORATANT translatable="false" MEANS THAT THE ARRAY MUST NOT BE HERE 
+  IMPORTANT translatable="false" MEANS THAT THE ARRAY MUST NOT BE HERE 
 -->
 
 <!--suppress CheckTagEmptyBody -->
@@ -46,7 +46,7 @@
 
   <string-array name="csvSeparator">
      <item name="comma">virgule</item>
-     <item name="pipe">pipe</item>
+     <item name="pipe">trait vertical</item>
      <item name="tab">tabulation</item>
   </string-array>
 
@@ -230,7 +230,7 @@
      <item name="for">Visée normale, visées latérales d\'habillage en premier</item>
      <item name="back">Visée inverse, visées latérales d\'habillage en premier</item>
      <item name="backsight">Visée Arrière, Backsight</item>
-     <item name="tripod">Tripod</item>
+     <item name="tripod">Trépied</item>
      <item name="anomaly">Anomalie magnétique</item>
      <item name="for2">Visée normale, cheminement en premier</item>
      <item name="back2">Visée inverse, cheminement en premier</item>
